@@ -1,7 +1,5 @@
 import itertools
 
-#try
-
 class Sentence():
 
     def evaluate(self, model):
